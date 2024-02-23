@@ -1,0 +1,9 @@
+2023001 lia 15 demam 1 
+2023002 jerry 23 lelah 2 
+2023003 joko 33 diare 2 
+2023004 jaka 14 batuk 1 
+2023005 diana 20 luka 1 
+2023006 satria 23 batuk 1 
+2023007 putri 25 tipes 1 
+2023008 slyvi 23 pusing 2 
+2023009 januar 23 pusing 2 
